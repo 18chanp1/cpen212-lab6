@@ -1,0 +1,23 @@
+Firstly, if the missing semester was posted, for example, during winter break,
+I would have found some time from the rather long winter break. Since it wasn't 
+until the term started when we started getting busy, I didn't get the chance to
+look at the missing semester content. 
+
+Secondly, I felt like I missed the announcement about the missing semester course 
+whether it was in lecture or on piazza, so perhaps a canvas message/notification
+or Piazza "forced post" would be useful in letting me know. Many students disable
+Piazza notifications, and don't check piazza until they have questions because an 
+email every 4 hours with irrelevant questions is annoying, and many people see piazza
+as a Q&A place rather than a place with course information so I think you could have 
+used the "forced post" feature on important information such as this. 
+
+For example, I took an optional C++ basics 5-hour course at the start of CPSC 221,
+which really helped with the labs in that course. Since it was mentioned several times
+in lecture, and it was a module on canvas that I could see every time I went there,
+along with a "forced" announcement with an email, so I knew about the course and
+watched the videos. 
+
+This is my personal preference, but assignments/content could be posted on canvas 
+instead since many people use the canvas to-do list to track things to do, and
+adding some due-date (for finishing the course, not for points) would give me 
+some extra motivation. 
