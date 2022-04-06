@@ -1,0 +1,19 @@
+I felt that the labs would be easier if we had some sort of formal training on how
+to debug programs, since I felt that debuggging was not really a skill that was
+taught explicitly anywhere in first or second year, and systematic debugging using 
+tools such as gdb in lab 1 would be useful. 
+
+I also agree with some training on how to use the command line, since while I had
+some experience using the command line, I still felt that I was learning something
+new in the labs when interacting with the command line. 
+
+I also would like the information on compilers / linking to be placed a little earlier, 
+since I was not familiar with the concept of "make" files and it is a black box
+as to how compilation and make files work. I still don't fully understand the purpose
+of make files. I just push the green button on my IDE to make things run. 
+
+In terms of the content, I would also wish I had more proficiency in reading 
+code from others, since I primarily write code and rarely analyze code. So, I
+struggled in lab 1 trying to figure out what the functions were doing despite 
+knowing what each individual function did. 
+
